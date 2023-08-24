@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension type="plugin" group="cck_field_validation" version="2.5" method="upgrade">
 	<name>plg_cck_field_validation_cintunisia</name>
-	<author>Octopoos</author>
-	<authorEmail>contact@seblod.com</authorEmail>
-	<authorUrl>https://www.seblod.com</authorUrl>
-	<copyright>Copyright (C) 2009 - 2018 SEBLOD. All Rights Reserved.</copyright>
+	<author>Salah JAAFAR</author>
+	<authorEmail>sebloadarabia@rn.tn</authorEmail>
+	<authorUrl>https://seblodarabia.rn.tn</authorUrl>
+	<copyright>Copyright (C) 2009 - 2023 SEBLODARABIA. All Rights Reserved.</copyright>
 	<license>GNU General Public License version 2 or later.</license>
 	<creationDate>August 2023</creationDate>
-	<description>SEBLOD 3.x - https://seblodarabia.rn.tn/</description>
+	<description>SEBLOD 3.x - Arabic validation plugin for SEBLOD - Visit https://seblodarabia.rn.tn/</description>
 	<version>1.0.0</version>
 	
 	<scriptfile>install/script.php</scriptfile>
